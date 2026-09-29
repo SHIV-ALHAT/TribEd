@@ -1,0 +1,6 @@
+{
+  "name": "TribEd - Unified Tribal Scholarship Platform",
+  "description": "Ministry of Tribal Affairs (MoTA) unified scholarship discovery, automated verification, deficiency resolution, and DBT tracking system for ST students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
